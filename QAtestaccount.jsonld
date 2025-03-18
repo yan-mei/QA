@@ -60,7 +60,6 @@
   },
   "hashAlgorithm": "blake2b-256",
   "body": {
-    "doNotList": true,
     "givenName": "QAtestaccount",
     "image": {
       "@type": "ImageObject",
